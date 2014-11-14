@@ -1,0 +1,4 @@
+a Sample output:
+2 2 3 4 3 3 2 5 3 2
+mean:2.9
+variance:.988889
